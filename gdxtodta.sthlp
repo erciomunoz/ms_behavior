@@ -79,7 +79,7 @@ Ercio Munoz, Poverty and Equity GP, the World Bank.
 Email: {browse "mailto:emunozsaavedra@worldbank.org":emunozsaavedra@worldbank.org}
 
 {title:Notes}
-This ado file is a simplified version of the gdxtodta.ado written by Israel Osorio (iosoriorodarte@worldbank.org) as part of the GIDD model.
+This ado file is a simplified version of the giddgdximport.ado written by Israel Osorio (iosoriorodarte@worldbank.org) as part of the GIDD model.
 
 
 
