@@ -1,0 +1,16 @@
+v 1.0
+d 'MS_BEHAVIOR': ms_behavior
+d 
+d Microsim with job queueing
+d 
+d Distribution-Date:   20220712
+d License: Academic Free License v3.0
+d 
+F gdxtodta.ado
+F gdxtodta.sthlp
+F ms_mincer_msector.ado
+F ms_msecmove.ado
+F ms_wages.ado
+f Example3.do
+f Example3.dta
+f population - Example3.dta
