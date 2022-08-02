@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 1.0 February 2022}{...}
+{* *! version 1.0 July 2022}{...}
 {cmd: help gdxtodta}
 {hline}
 
@@ -20,7 +20,6 @@
 {cmdab:sets}
 {cmdab:parameters}
 {cmdab:variables}
-{cmdab:gms}
 ]
 
 {synoptset 25 tabbed}{...}
@@ -37,8 +36,6 @@
 {synopt:{opt parameters:}}gdx files contain sets, parameters and variables. This option is to read only parameters.{p_end}
 
 {synopt:{opt variables:}}gdx files contain sets, parameters and variables. This option is to read only variables.{p_end}
-
-{synopt:{opt gms:}}option to save a GMS file.{p_end}
 
 
 {title:Description}
@@ -79,7 +76,7 @@ Ercio Munoz, Poverty and Equity GP, the World Bank.
 Email: {browse "mailto:emunozsaavedra@worldbank.org":emunozsaavedra@worldbank.org}
 
 {title:Notes}
-This ado file is a simplified version of the giddgdximport.ado written by Israel Osorio (iosoriorodarte@worldbank.org) as part of the GIDD model.
+This ado file is a simplified version of the gdxtodta.ado written by Israel Osorio (iosoriorodarte@worldbank.org) as part of the GIDD model.
 
 
 
